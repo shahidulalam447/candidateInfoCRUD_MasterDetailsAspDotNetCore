@@ -11,10 +11,10 @@ This project allows you to perform the following operations:
 - **Update:** Modify the details of Candidate Information.
 - **Delete:** Remove Candidate Information.
 
-## Candidate Information Page
+### Candidate Information Page
 ![image](https://github.com/shahidulalam447/candidateInfoCRUD_MasterDetailsAspDotNetCore/blob/master/CandidateList.png)
 
-## Create Page
+### Create Page
 ![image](https://github.com/shahidulalam447/candidateInfoCRUD_MasterDetailsAspDotNetCore/blob/master/Create.png)
 
 
